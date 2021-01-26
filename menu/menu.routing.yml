@@ -1,0 +1,8 @@
+menu.content:
+  path: '/menu/{name}'
+  defaults:
+    _controller: 'Drupal\menu\Controller\MenuController::content'
+    _title: 'Menu Page'
+    name: 'Maria Fernanda'
+  requirements:
+    _permission: 'access content'

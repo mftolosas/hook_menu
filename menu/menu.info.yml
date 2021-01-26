@@ -1,0 +1,6 @@
+name: Menu
+type: module
+description: 'Custom menu'
+package: Custom
+version: '8.1.0'
+core: 8.x

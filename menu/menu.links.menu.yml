@@ -1,0 +1,6 @@
+menu.demo:
+  title: 'Menu'
+  description: 'Menu page'
+  parent: standard.front_page
+  menu_name: main
+  route_name: menu.content`
