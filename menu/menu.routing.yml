@@ -6,3 +6,10 @@ menu.content:
     name: 'Maria Fernanda'
   requirements:
     _permission: 'access content'
+
+menu_configuration:
+  path: '/menu/configuration'
+  defaults:
+    _title: 'Configuration Menu'
+  requirements:
+    _permission: 'access content'

@@ -1,4 +1,4 @@
-access all views:
+access all menu:
   title: 'Menu access control'
   description: 'Menu access control when accessing to module permissions.'
   restrict access: TRUE
